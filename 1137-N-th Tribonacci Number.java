@@ -4,7 +4,7 @@ class Solution {
         return 0;
      }else if(n==1 || n==2){
         return 1;
-     }else{ 
+     }else { 
         int firstterm = 0;
         int secondterm = 1;
         int thirdterm = 1;
