@@ -5,7 +5,7 @@ class Solution {
      }else if(n==1 || n==2){
         return 1;
      }else {  
-        int firstterm = 0;
+        int firstterm = 0; 
         int secondterm = 1;
         int thirdterm = 1;
         for (int i=3; i<=n; i++){
