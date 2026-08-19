@@ -11,7 +11,7 @@ class Solution {
             ans = ans + newBottles;
 
             numBottles = newBottles + remBottles;
-
+ 
         }
         return ans; 
     }
